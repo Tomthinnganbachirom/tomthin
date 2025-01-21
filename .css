@@ -1,0 +1,58 @@
+div{
+    margin:auto;
+    height: auto;
+    background-color:#213555;
+    border-radius: 8%;
+}
+body{
+   text-align: center;
+   background-color:#F0F0F0;
+   
+}
+input{
+    width: 90%;
+    height: 35px;
+    border: solid 1px;
+    border-radius: 5px;
+    margin: 20px ;
+    color: burlywood;
+}
+.size{
+    width: 500px;
+    height: 500px;
+}
+
+h1{
+    color:#000000;
+}
+.custom-button,.create{
+    padding:10px 30px;
+    color: black;
+    background-color:#4F709C;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+h5{
+    text-align: right;
+    color: #D2E3C8;
+}
+h4{
+    color:#D2E3C8;
+}
+h3{
+    color: #D2E3C8;
+}
+.notice{
+    color: black;
+    background-color: rgb(184, 172, 156);
+    border-radius: 5px;
+    text-align: center;
+    padding:5px 10px;
+    font-size:15px;
+}
+nav{
+    color: #c1c4c7;
+    background-color: #4F709C;
+    
+}
